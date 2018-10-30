@@ -1,1 +1,6 @@
 gcc hello.c 输出a.out
+gcc -o a.exe hello.c 指定编译结果 可以windows运行
+使用之前先引入 include <stdio.h> 类似java的 import
+c语音先声明后使用 就需要把方法放在调用者前面 这点和java不一样
+每个方法都需要return 
+system(“cacl”)//可以打开某个程序
